@@ -1,0 +1,22 @@
+svyatoslav
+вівторок, 5 травня 2020 02:04:51 +0300
+svyatosl :0           :0               Tue May  5 00:40    gone - no logout
+
+wtmp begins Mon May  4 22:34:21 2020
+PING i.ua (91.198.36.14) 56(84) bytes of data.
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=1 ttl=58 time=10.7 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=2 ttl=58 time=10.2 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=3 ttl=58 time=10.6 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=4 ttl=58 time=10.2 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=5 ttl=58 time=10.4 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=6 ttl=58 time=12.2 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=7 ttl=58 time=10.2 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=8 ttl=58 time=10.5 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=9 ttl=58 time=10.5 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=10 ttl=58 time=10.7 ms
+
+--- i.ua ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9286ms
+rtt min/avg/max/mdev = 10.172/10.617/12.187/0.555 ms
+ping: a.a: Name or service not known
+3538
