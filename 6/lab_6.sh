@@ -21,6 +21,6 @@ vim +3 ~/labs/6/6.log
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 echo "please enter a site name!"
 read sitename
-ping -c 10 $sitename >> ~/labs/6/6.log | ping -c 10 $sitename 2>> ~/labs/6/6.error #not quite shat you need (
+ping -c 10 $sitename >> ~/labs/6/6.log | ping -c 10 $sitename 2>> ~/labs/6/6.error #not quite what you need (
  
 
