@@ -27,4 +27,5 @@ sudo useradd -d /home/vasya vasya
 sudo usermod -a -G sudo vasya
 sudo su - vasya -s /bin/bash -c "whoami"
 sudo passwd vasya && sudo chage -M 30 vasya
+sudo userdel -r vasya
 
