@@ -10,7 +10,7 @@ cat /var/log/boot.log.1
 sudo cat /var/log/boot.log.1
 
 #Middle level
-less /etc/group | grep $USER
+groups
 cat /etc/group | grep $USER | cut -d: -f1
 echo "$SHELL"
 sudo mkdir /home/vasya && sudo useradd -c "Vasya Testing User" -d /home/vasya vasya
