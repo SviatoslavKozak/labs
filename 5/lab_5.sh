@@ -18,5 +18,5 @@ ssh -V
 apt-cache policy nano
 NANO_VERSION=$(nano -V)
 notify-send "Nano Version" "$NANO_VERSION"
-notify-send "Ssh Version" "$(ssh -V 2> ssh) && $(cat ssh)" | rm ssh
+notify-send "Ssh Version" "$(ssh -V 2> ssh) && $(cat ssh)" && rm ssh
 
